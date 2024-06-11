@@ -1,3 +1,5 @@
+DİKKAT KODLAR CORENODE ekibinden GÖKHAN_MOLLA dan alıntıdır. Kendisine ve ekibine sonsuz teşekkürler.
+
 ### Oto tx
 
 ```
