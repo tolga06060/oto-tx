@@ -97,6 +97,10 @@ rl.question('MetaMask cüzdanının özel anahtarını girin: ', (privateKey) =>
 ![image](https://github.com/Core-Node-Team/Testnet-TR/assets/91562185/b2ae81d2-3f0a-4466-bd8a-04ad382b1cf4)
 
 ```
+screen -S ototx
+```
+
+```
 node corenodetx.js
 ```
 
